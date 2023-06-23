@@ -1,4 +1,17 @@
 header {
     background-color: #424E61;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabeçalho-item {
+    display: inline-block;
+    margin: 40px 16px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }
